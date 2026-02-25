@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amol
+👋 Hi, I’m Amol
 
 <!---
 amol1202/amol1202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
